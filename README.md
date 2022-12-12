@@ -29,12 +29,34 @@ Prerequisites
 
 In order for the project to work, you will need to install the following:
 
-- Visual Studio 2019 or higher
-- .NET Framework version4.8
-- version 4.0 of the .NET Framework runtime.
+- Visual Studio 2019 or higher:
+
+Go to the Visual Studio official website: https://visualstudio.microsoft.com/
+Click on the "Download" button.
+Select the edition of Visual Studio that you want to install, such as "Community," "Professional," or "Enterprise."
+Click on the "Download" button for the edition you selected.
+Run the downloaded installer and follow the on-screen instructions to complete the installation.
+Once the installation is complete, you can launch Visual Studio from the Start menu or the desktop shortcut.
+
+- .NET Framework version4.8:
+
+Go to the .NET Framework 4.8 download page: https://dotnet.microsoft.com/download/dotnet-framework/net48
+Click on the "Download" button to download the web installer.
+Run the downloaded installer and follow the on-screen instructions to complete the installation.
+
+- version 4.0 of the .NET Framework runtime:
+
+Version 4.0 of the .NET Framework runtime is included in the .NET Framework 4.8. Once you have installed the .NET Framework 4.8, you will also have version 4.0 of the .NET Framework runtime installed on your machine.
 
 Installing
 
-1. Clone the repository:
+Clone the repository:
+Press the "Code" button and choose "Open in Visual Studio"
+You will be taken to Visual Studio and showed a "Clone a repository" page
+Press "clone"
+
+
+
+
 
 
