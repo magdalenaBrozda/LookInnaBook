@@ -27,7 +27,10 @@ Getting Started
 
 Prerequisites
 
-In order for the project to work, you will need to install Visual Sudio:
+In order for the project to work, you will need to install the following:
 
+- Visual Studio 2019 or higher
+- .NET Framework version4.8
+- version 4.0 of the .NET Framework runtime.
 
 
