@@ -23,3 +23,11 @@ place orders for new books if the remaining quantity is less than a given thresh
 by sending an email to the publisher of the limited books to order a number of books equal to how many books
 were sold in the previous month (you do not have to implement the email sending component).
 
+Getting Started
+
+Prerequisites
+
+In order for the project to work, you will need to install Visual Sudio:
+
+
+
