@@ -33,4 +33,8 @@ In order for the project to work, you will need to install the following:
 - .NET Framework version4.8
 - version 4.0 of the .NET Framework runtime.
 
+Installing
+
+1. Clone the repository:
+
 
